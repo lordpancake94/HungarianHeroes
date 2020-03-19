@@ -1,0 +1,26 @@
+body
+{
+ background-color:gray;
+}
+div
+{
+ display:block;
+ margin:auto;
+ background-color:purple;
+ width:75%;
+ border:5pt black solid;
+}
+h1
+{
+ text-align:center;
+ margin: 5pt;
+}
+img
+{
+ width:80%;
+ display:block;
+ margin:auto;
+ margin-top:70px;
+ margin-bottom:10px;
+ border:5pt black solid;
+}
