@@ -3,9 +3,9 @@ meglepi.onmouseover=valt;
 meglepi.onmouseout=valt;
 function valt()
 {
-	if(meglepi.getAttribute("src")!="picks/Inkvizicio.jpg")
+	if(meglepi.getAttribute("src")!="picks/inkvizicio.jpg")
 	{
-		this.src="picks/Inkvizicio.jpg";
+		this.src="picks/inkvizicio.jpg";
 	}
 	else
 	{
