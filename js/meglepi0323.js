@@ -5,7 +5,7 @@ function valt()
 {
 	if(meglepi.getAttribute("src")!="picks/Inkvizicio.jpg")
 	{
-		this.src="picks/inkvizicio.jpg";
+		this.src="picks/Inkvizicio.jpg";
 	}
 	else
 	{
