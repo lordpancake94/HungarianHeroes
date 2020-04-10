@@ -1,0 +1,81 @@
+body
+{
+ background-color:darkslategray;
+}
+div
+{
+ margin:auto;
+ display:block;
+ width:80%;
+ border:2pt solid black;
+ background-color:darkslateblue;
+}
+div.cim
+{
+ width:auto;
+ text-align:center;
+ font-size:16pt;
+ font-weight:bolder;
+ background-color:indigo;
+ color:gold;
+ text-shadow:1px 1px black;
+ border:1pt solid black;
+}
+div.torzs
+{
+ width:auto;
+ background-color:darkslateblue;
+ border:1pt solid black;
+}
+h1
+{
+ color:goldenrod;
+ text-align:center;
+ text-shadow:2px 2px black ;
+}
+img
+{
+ width:80%;
+ display:block;
+ margin:auto;
+ margin-top:70px;
+ margin-bottom:10px;
+ border:5pt black solid;
+}
+p
+{
+ font-weight:bold;
+ color:gold;
+ text-align:justify;
+ margin:20;
+ font-size:14pt;
+ text-shadow:1px 1px black;
+}
+
+table
+{
+ border:2pt solid black;
+}
+tr.nev
+{
+ background-color:rebeccapurple;
+}
+tr.adat
+{
+ background-color:slateblue;
+}
+td
+{
+ border:1pt solid black;
+ color:gold;
+ text-align:center;
+ text-shadow:1px 1px black;
+}
+table.szorny
+{
+ border:0;
+}
+td.szorny
+{
+ border:0;
+}
